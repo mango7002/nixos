@@ -4,5 +4,11 @@ I try to keep my configuration.nix file as clean as possible and make all my con
 If you want my apps and settings simply download my pkgs.nix file and import it in configuration.nix like this:
 
 ````
-uwu
+{ config, pkgs, ... }:
+
+{
+  imports =
+    [
+      ./pkgs.nix
+    ];
 ````
