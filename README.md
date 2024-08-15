@@ -7,7 +7,7 @@
 
 ## Info
 - RAM usage on startup: ~180mb
-- Package count: :package: 582
+- Package count: :package: 713
 - Terminal emulator: :cat: kitty
 - Window manager: :herb: Hyprland
 - Shell: :shell: bash
