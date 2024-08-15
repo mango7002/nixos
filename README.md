@@ -8,7 +8,7 @@
 ## Info
 - RAM usage on startup: ~180mb
 - Package count: :package: 582
-- Terminal emulator: kitty
+- Terminal emulator: :cat: kitty
 - Window manager: :herb: Hyprland
 - Shell: :shell: bash
 - Editor: :pencil: neovim
