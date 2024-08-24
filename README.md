@@ -3,7 +3,7 @@
 *My configuration files for NixOS. Feel free to look around and copy!* 
 
 # Special thanks to:
-- Myself
+- Idk yet
 
 ## Info
 - RAM usage on startup: ~1080mb
